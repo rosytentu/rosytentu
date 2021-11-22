@@ -1,8 +1,6 @@
 ### Hi there 👋
 # hlo
-## aditya engineering college
-### cse
-#### hy
+## welcome
 
 <!--
 **rosytentu/rosytentu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
