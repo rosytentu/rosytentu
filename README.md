@@ -1,13 +1,7 @@
 ### Hi 
 ## welcome
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzGLFXu51ksgvTOPsb5euzMstRfDKJk8L6QQ&usqp=CAU)
-# *my profile*
-## *Hello, my name is rosy*
-## ***I am looking for internship.***
-## ***I am interested in coding***
-## ***I have many skills to contribute including dancing,singing.***
-## ***I am looking to gain a better understanding of coding.***
-
+![logo](https://media.glassdoor.com/sqll/504822/aditya-engineering-college-squarelogo-1541066128459.png)
+## aditya engineering college
 <!--
 **rosytentu/rosytentu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
